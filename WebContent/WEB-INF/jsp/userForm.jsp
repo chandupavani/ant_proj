@@ -8,6 +8,10 @@
 <title>Registration Page</title>
 </head>
 <body>
+<body bgcolor="green">
+  <p>This page now has a green background!</p>
+</body>
+
 
 <form:form method="POST" commandName="user">
 	<table>
