@@ -6,6 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Registration Page</title>
+<body style="background-color:#FF0000;"
+</body>
 </head>
 <body>
 <body bgcolor="green">
